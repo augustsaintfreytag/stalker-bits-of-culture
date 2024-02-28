@@ -1,4 +1,4 @@
-(Cover Image Pending)
+![Person Reading on Chair A 01](https://github.com/augustsaintfreytag/stalker-culture-items/assets/7656669/84d40c27-dca6-4342-a96b-16be0e3e9d8f)
 
 # STALKER Bits of Culture
 
