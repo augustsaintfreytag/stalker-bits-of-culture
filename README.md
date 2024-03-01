@@ -15,27 +15,33 @@ The following items are introduced by this mod, inheriting the item class `tch_j
 
 ### Crime and Punishment (Fyodor Dostoevsky)
 
-A copy of Fyodor Dostoevsky's "Crime and Punishment", a novel of psychological exploration and existentialism, originally published in 1866. It follows the life of Raskolnikov, an impoverished student living in Saint Petersburg who formulates a plan to kill a local pawnbroker for her money. A story about struggling with the morality of personal actions and the human condition. The book is considered to be among the greatest works of world literature, found in many backpacks of newcomers to the Zone.
+A copy of Fyodor Dostoevsky's "Crime and Punishment", a novel of psychological exploration and existentialism, originally published in 1866. It follows the life of Raskolnikov, an impoverished student living in Saint Petersburg who formulates a plan to kill a local pawnbroker for her money. A story about struggling with the morality of personal actions and the human condition. The book is considered to be among the greatest works of world literature, found in many backpacks of newcomers to the Zone. This instance is an English translation.
 
-Assigned identifier: `spareparts`
+Assigned identifier: `book1`
 
 ### Voroshilovgrad (Serhiy Zhadan)
 
 A copy of "Voroshilovgrad" by Ukrainian novelist Serhiy Zhadan in good condition, published in 2010. It tells the journey of a young man dealing with the sudden disappearance of his brother. The book offers a deep exploration of post-Soviet Ukrainian identity, a story about intimate humanity in conditions of brutality. The author's work is widely appreciated for its reflection of present day Ukrainian society, told in a raw, unsentimental style. Zhadan began his writing life as a poet and the roots of his prose can still be seen in his newer works.
 
-Assigned identifier: `survivalguide`
+Assigned identifier: `book2`
 
 ### Perverzion (Yuri Andrukhovych)
 
-A heavily used copy of "Perverzion" by Yuri Andrukhovych, a collection of essays and stories that explore the author's personal experiences and the history of Ukraine, published in 1996. The book processes the author's life and the life of his country, a trip through the absurdities of the post-Soviet world. Andrukhovych is a valued author of modern Ukrainian literature.
+A heavily used copy of "Perverzion" by Yuri Andrukhovych, a collection of essays and stories that explore the author's personal experiences and the history of Ukraine, published in 1996. The book processes the author's life and the life of his country, a trip through the absurdities of the post-Soviet world. Andrukhovych is a valued author of modern Ukrainian literature. This instance is an English translation.
 
-Assigned identifier: `maps_kit`
+Assigned identifier: `book3`
 
 ### The Museum of Abandoned Secrets (Oksana Zabuzhko)
 
 A copy of "The Museum of Abandoned Secrets" by Oksana Zabuzhko, an 800 page multigenerational novel about historial Ukraine and the lives of its people, the country's first long-running bestseller, originally published in 2009. The book is a story of love and betrayal, a tale of the Soviet Union and the world after its downfall. Zabuzhko is recognized as a prominent figure in modern Ukrainian literature.
 
-Assigned identifier: `picture_woman`
+Assigned identifier: `picture_woman` (or `book4`)
+
+### Roadside Picnic (Arkady and Boris Strugatsky)
+
+A copy of "Roadside Picnic" by Arkady and Boris Strugatsky in Russian, a science fiction novel about the aftermath of an alien landing, originally published in 1972. The book tells the gritty story of one of six visitation zones near the town of Harmont where extraterrestrials left behind strange artifacts and phenomena. The novel is regarded as the creative foundation of various media, including films and games.
+
+Assigned identifier: `meinkampf` (or `book5`)
 
 ### Krytika Magazine
 
