@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- Books -->
+
+	<string id="st_book_das_kapital">
+		<text>Das Kapital</text>
+	</string>
+	<string id="st_book_das_kapital_descr">
+		<text>An old copy of the foundational theoretical text in materialist philosophy, critique of political economy and politics written by Karl Marx, first published in 1885. It explores and analyzes the economic patterns behind the capitalist mode of production with comparisons to preceding classical economists.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_blue] • %c[ui_gray_2] cultural item</text>
+	</string>
+
+	<string id="st_book_crime_and_punishment">
+		<text>Crime and Punishment</text>
+	</string>
+	<string id="st_book_crime_and_punishment_descr">
+		<text>A copy of Fyodor Dostoevsky's "Crime and Punishment", a novel of psychological exploration and existentialism, originally published in 1866. It follows the life of Raskolnikov, an impoverished student living in Saint Petersburg who formulates a plan to kill a local pawnbroker for her money. A story about struggling with the morality of personal actions and the human condition. The book is considered to be among the greatest works of world literature, found in many backpacks of newcomers to the Zone. This instance is an English translation.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_blue] • %c[ui_gray_2] cultural item</text>
+	</string>
+
+	<string id="st_book_voroshilovgrad">
+		<text>Voroshilovgrad</text>
+	</string>
+	<string id="st_book_voroshilovgrad_descr">
+		<text>A copy of "Voroshilovgrad" by Ukrainian novelist Serhiy Zhadan in good condition, published in 2010. It tells the journey of a young man dealing with the sudden disappearance of his brother. The book offers a deep exploration of post-Soviet Ukrainian identity, a story about intimate humanity in conditions of brutality. The author's work is widely appreciated for its reflection of present day Ukrainian society, told in a raw, unsentimental style. Zhadan began his writing life as a poet and the roots of his prose can still be seen in his newer works.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_blue] • %c[ui_gray_2] cultural item</text>
+	</string>
+
+	<string id="st_book_perverzion">
+		<text>Perverzion</text>
+	</string>
+	<string id="st_book_perverzion_descr">
+		<text>A heavily used copy of "Perverzion" by Yuri Andrukhovych, a collection of essays and stories that explore the author's personal experiences and the history of Ukraine, published in 1996. The book processes the author's life and the life of his country, a trip through the absurdities of the post-Soviet world. Andrukhovych is a valued author of modern Ukrainian literature. This instance is an English translation.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_blue] • %c[ui_gray_2] cultural item</text>
+	</string>
+
+	<string id="st_book_the_museum_of_abandoned_secrets">
+		<text>The Museum of Abandoned Secrets</text>
+	</string>
+	<string id="st_book_the_museum_of_abandoned_secrets_descr">
+		<text>A copy of "The Museum of Abandoned Secrets" by Oksana Zabuzhko, an 800 page multigenerational novel about historial Ukraine and the lives of its people, the country's first long-running bestseller, originally published in 2009. The book is a story of love and betrayal, a tale of the Soviet Union and the world after its downfall. Zabuzhko is recognized as a prominent figure in modern Ukrainian literature.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_blue] • %c[ui_gray_2] cultural item</text>
+	</string>
+
+	<string id="st_book_on_killing">
+		<text>On Killing</text>
+	</string>
+	<string id="st_book_on_killing_descr">
+		<text>A handed down copy of "On Killing: The Psychological Cost of Learning to Kill in War and Society" by Dave Grossman, a non-fiction book about the psychological effects of killing in combat, originally published in 1995. The book is based on the author's experience as a U.S. Army officer and psychologist. It explores methods used to overcome the reluctance to kill and the consequences of the act. The book is a study of the techniques and the human cost of war. Sometimes recommended to new arrivals with limited combat background.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_blue] • %c[ui_gray_2] cultural item</text>
+	</string>
+
+	<string id="st_book_roadside_picnic">
+		<text>Roadside Picnic</text>
+	</string>
+	<string id="st_book_roadside_picnic_descr">
+		<text>A copy of "Roadside Picnic" by Arkady and Boris Strugatsky in Russian, a science fiction novel about the aftermath of an alien landing, originally published in 1972. The book tells the gritty story of one of six visitation zones near the town of Harmont where extraterrestrials left behind strange artifacts and phenomena. The novel is regarded as the creative foundation of various media, including films and games.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_blue] • %c[ui_gray_2] cultural item</text>
+	</string>
+
+	<!-- Magazines -->
+
+	<string id="st_magazine_krytyka">
+		<text>Krytyka Magazine</text>
+	</string>
+	<string id="st_magazine_krytyka_descr">
+		<text>An edition of the Ukrainian monthly magazine Krytyka, a highly regarded publication on current affairs, culture, and literature, founded in 1997. While not much information of the outside world crosses into the Zone, imported books and art are still very popular.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] everyday item</text>
+	</string>
+
+	<string id="st_magazine_ukrainian_week">
+		<text>Ukrainian Week</text>
+	</string>
+	<string id="st_magazine_ukrainian_week_descr">
+		<text>A print of the Ukrainian Week, an illustrated weekly magazine with articles on politics, economics and art, popular among socially engaged readers. Within this edition, there is a range of analysis, opinion, interviews, feature pieces, including travel both in Ukraine and outside, and art reviews and events calendar. All the events listed are in the past.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] everyday item</text>
+	</string>
+
+	<!-- Miscellaneous -->
+
+	<string id="st_personal_photo">
+		<text>Photo</text>
+	</string>
+	<string id="st_personal_photo_descr">
+		<text>This photo may have once been the treasured memory of another person. It appears mundane at first glance but great attention has been given to the framing, lighting, and overall atmosphere, giving off a thoughtful, observational tenderness.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] personal belongings</text>
+	</string>
+</string_table>
