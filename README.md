@@ -35,13 +35,19 @@ Assigned identifier: `book3`
 
 A copy of "The Museum of Abandoned Secrets" by Oksana Zabuzhko, an 800 page multigenerational novel about historial Ukraine and the lives of its people, the country's first long-running bestseller, originally published in 2009. The book is a story of love and betrayal, a tale of the Soviet Union and the world after its downfall. Zabuzhko is recognized as a prominent figure in modern Ukrainian literature.
 
-Assigned identifier: `picture_woman` (or `book4`)
+Assigned identifier: `book4`
+
+### On Killing (Dave Grossman)
+
+A handed down copy of "On Killing: The Psychological Cost of Learning to Kill in War and Society" by Dave Grossman, a non-fiction book about the psychological effects of killing in combat, originally published in 1995. The book is based on the author's experience as a U.S. Army officer and psychologist. It explores methods used to overcome the reluctance to kill and the consequences of the act. The book is a study of the techniques and the human cost of war. Sometimes recommended to new arrivals with limited combat background.
+
+Assigned identifier: `book5`
 
 ### Roadside Picnic (Arkady and Boris Strugatsky)
 
 A copy of "Roadside Picnic" by Arkady and Boris Strugatsky in Russian, a science fiction novel about the aftermath of an alien landing, originally published in 1972. The book tells the gritty story of one of six visitation zones near the town of Harmont where extraterrestrials left behind strange artifacts and phenomena. The novel is regarded as the creative foundation of various media, including films and games.
 
-Assigned identifier: `meinkampf` (or `book5`)
+Assigned identifier: `meinkampf` (or `book6`)
 
 ### Krytika Magazine
 
