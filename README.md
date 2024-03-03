@@ -61,6 +61,10 @@ A slightly dated print of the Ukrainian Week, an illustrated weekly magazine wit
 
 Assigned identifier: `porn2`
 
+## Technicals
+
+You can find additional documentation on affected LTX modules and creating DLTX patches in [Technicals](./TECHNICALS.md).
+
 ## License
 
 This mod was created by Saint for free use by the STALKER modding community with basic attribution under the MIT license. This mod may be distributed with mod packs.
