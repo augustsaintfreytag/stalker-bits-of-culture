@@ -47,19 +47,19 @@ Assigned identifier: `book5`
 
 A copy of "Roadside Picnic" by Arkady and Boris Strugatsky in Russian, a science fiction novel about the aftermath of an alien landing, originally published in 1972. The book tells the gritty story of one of six visitation zones near the town of Harmont where extraterrestrials left behind strange artifacts and phenomena. The novel is regarded as the creative foundation of various media, including films and games.
 
-Assigned identifier: `meinkampf` (or `book6`)
+Assigned identifier: `book6`
 
 ### Krytika Magazine
 
 A slightly dated edition of the Ukrainian monthly magazine Krytyka, a journal on current affairs, culture, and literature, founded in 1997. Printed works on contemporary topics occasionally make their way into the Zone, though interest is usually limited and editions are rare to find.
 
-Assigned identifier: `porn`
+Assigned identifier: `porn` (reused)
 
 ### Ukrainian Week Magazine
 
 A slightly dated print of the Ukrainian Week, an illustrated weekly magazine with articles on politics, economics, and art. This edition includes a range of analysis, opinion, interview, and detailed review pieces around art and culture. There is a section with a curated event calendar but all the events listed are long in the past.
 
-Assigned identifier: `porn2`
+Assigned identifier: `porn2` (reused)
 
 ## Technicals
 
