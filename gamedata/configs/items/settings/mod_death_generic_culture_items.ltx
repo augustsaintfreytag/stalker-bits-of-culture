@@ -1,0 +1,355 @@
+; Item Index
+
+; book1			Crime and Punishment (Fyodor Dostoevsky)				Medium availability
+; book2			Voroshilovgrad (Serhiy Zhadan)							High availability
+; book3			Perverzion (Yuri Andrukhovych)							Medium availability
+; book4			The Museum of Abandoned Secrets (Oksana Zabuzhko)		High availability
+; book5			On Killing (Dave Grossman)								Medium availability
+; book6			Roadside Picnic (Arkady and Boris Strugatsky)			Low availability
+; porn			Krytika Magazine										Low availability
+; porn2			Ukrainian Week Magazine									Low availability
+
+; Item Drop Count
+
+![item_count]
+book1									= 1, 1
+book2									= 1, 1
+book3									= 1, 1
+book4									= 1, 1
+book5									= 1, 1
+book6									= 1, 1
+!meinkampf
+
+; Item Loot (Base)
+
+![base]
+book1									= 0.01
+book2									= 0.01
+book3									= 0.01
+book4									= 0.01
+book5									= 0.02
+book6									= 0.01
+porn									= 0.005
+porn2									= 0.005
+
+![base_experienced]:base
+book1									= 0.01
+book2									= 0.01
+book3									= 0.01
+book4									= 0.01
+book5									= 0.005
+book6									= 0.01
+porn									= 0.015
+porn2									= 0.008
+
+; Item Loot (Factions)
+
+; Factions: bandit, stalker, army, freedom, dolg, ecolog, csky, killer, greh, isg, renegade, monolith, zombied
+; All Ranks: novice, trainee, experienced, professional, veteran, expert, master, legend
+; Used Ranks: novice, experienced, veteran, expert, master
+
+; Faction `greh` inherits all records from `monolith`
+; Faction `isg` inherits all records from `army`
+; Faction `renegade` inherits all records from `bandit`
+
+; Item Loot (Loners)
+
+![stalker_novice]:stalker
+!porn
+!porn2
+
+![stalker_experienced]:stalker
+!porn
+!porn2
+
+![stalker_veteran]:stalker,base_experienced
+!porn
+!porn2
+
+![stalker_expert]:stalker,stalker_veteran
+!porn
+!porn2
+
+![stalker_master]:stalker,stalker_veteran
+!porn
+!porn2
+
+; Item Loot (Bandits)
+
+![bandit]:base
+book1									= 0
+book2									= 0.01
+book3									= 0.03
+book4									= 0.01
+book5									= 0.01
+book6									= 0.005
+porn									= 0
+porn2									= 0
+
+![bandit_novice]:bandit
+!porn
+!porn2
+
+![bandit_experienced]:bandit
+!porn
+!porn2
+
+![bandit_veteran]:bandit,base_experienced
+book1									= 0
+book2									= 0.01
+book3									= 0.03
+book4									= 0.01
+book5									= 0.005
+book6									= 0.005
+porn									= 0
+porn2									= 0.05
+
+![bandit_expert]:bandit,bandit_veteran
+!porn
+!porn2
+
+![bandit_master]:bandit,bandit_veteran
+!porn
+!porn2
+
+; Item Loot (Military)
+
+![army]:base
+book1									= 0.04
+book2									= 0.06
+book3									= 0.04
+book4									= 0.06
+book5									= 0.06
+book6									= 0.005
+porn									= 0.04
+porn2									= 0.04
+
+![army_novice]:army
+!porn
+!porn2
+
+![army_experienced]:army
+!porn
+!porn2
+
+![army_veteran]:army,base_experienced
+book1									= 0.04
+book2									= 0.06
+book3									= 0.04
+book4									= 0.06
+book5									= 0.04
+book6									= 0.005
+porn									= 0.04
+porn2									= 0.04
+
+![army_expert]:army,army_veteran
+!porn
+!porn2
+
+![army_master]:army,army_veteran
+!porn
+!porn2
+
+; Item Loot (Freedom)
+
+![freedom]:base
+book1									= 0.01
+book2									= 0.04
+book3									= 0.03
+book4									= 0.03
+book5									= 0.03
+book6									= 0.03
+porn									= 0.005
+porn2									= 0.02
+
+![freedom_novice]:freedom
+!porn
+!porn2
+
+![freedom_experienced]:freedom
+!porn
+!porn2
+
+![freedom_veteran]:freedom,base_experienced
+book1									= 0.01
+book2									= 0.04
+book3									= 0.03
+book4									= 0.03
+book5									= 0.02
+book6									= 0.03
+porn									= 0.005
+porn2									= 0.02
+
+![freedom_expert]:freedom,freedom_veteran
+!porn
+!porn2
+
+![freedom_master]:freedom,freedom_veteran
+!porn
+!porn2
+
+; Item Loot (Duty)
+
+![dolg]:base
+book1									= 0.02
+book2									= 0.02
+book3									= 0.005
+book4									= 0.02
+book5									= 0.05
+book6									= 0.01
+porn									= 0.005
+porn2									= 0.005
+
+![dolg_novice]:dolg
+!porn
+!porn2
+
+![dolg_experienced]:dolg
+!porn
+!porn2
+
+![dolg_veteran]:dolg,base_experienced
+book1									= 0.02
+book2									= 0.02
+book3									= 0.005
+book4									= 0.02
+book5									= 0.01
+book6									= 0.01
+porn									= 0.005
+porn2									= 0.005
+
+![dolg_expert]:dolg,dolg_veteran
+!porn
+!porn2
+
+![dolg_master]:dolg,dolg_veteran
+!porn
+!porn2
+
+; Item Loot (Ecologists)
+
+![ecolog]:base
+book1									= 0.03
+book2									= 0.04
+book3									= 0.03
+book4									= 0.03
+book5									= 0.01
+book6									= 0.05
+porn									= 0.02
+porn2									= 0.02
+
+![ecolog_novice]:ecolog
+!porn
+!porn2
+
+![ecolog_experienced]:ecolog
+!porn
+!porn2
+
+![ecolog_veteran]:ecolog,base_experienced
+book1									= 0.04
+book2									= 0.05
+book3									= 0.04
+book4									= 0.04
+book5									= 0.02
+book6									= 0.05
+porn									= 0.06
+porn2									= 0.02
+
+![ecolog_expert]:ecolog,ecolog_veteran
+!porn
+!porn2
+
+![ecolog_master]:ecolog,ecolog_veteran
+!porn
+!porn2
+
+; Item Loot (Clear Sky)
+
+![csky]:base
+book1									= 0.03
+book2									= 0.04
+book3									= 0.03
+book4									= 0.04
+book5									= 0.03
+book6									= 0.02
+porn									= 0
+porn2									= 0
+
+![csky_novice]:csky
+!porn
+!porn2
+
+![csky_experienced]:csky
+!porn
+!porn2
+
+![csky_veteran]:csky,base_experienced
+book1									= 0.03
+book2									= 0.04
+book3									= 0.03
+book4									= 0.04
+book5									= 0.005
+book6									= 0.02
+porn									= 0
+porn2									= 0
+
+![csky_expert]:csky,csky_veteran
+!porn
+!porn2
+
+![csky_master]:csky,csky_veteran
+!porn
+!porn2
+
+; Item Loot (Mercenaries)
+
+![killer]:base
+!porn
+!porn2
+
+![killer_novice]:killer
+!porn
+!porn2
+
+![killer_experienced]:killer
+!porn
+!porn2
+
+![killer_veteran]:killer,base_experienced
+!porn
+!porn2
+
+![killer_expert]:killer,killer_veteran
+!porn
+!porn2
+
+![killer_master]:killer,killer_veteran
+!porn
+!porn2
+
+; Item Loot (Monolith)
+
+![monolith]:base
+porn									= 0
+porn2									= 0
+
+![monolith_novice]:monolith
+!porn
+!porn2
+
+![monolith_experienced]:monolith
+!porn
+!porn2
+
+![monolith_veteran]:monolith,base_experienced
+porn									= 0
+porn2									= 0
+
+![monolith_expert]:monolith,monolith_veteran
+!porn
+!porn2
+
+![monolith_master]:monolith,monolith_veteran
+!porn
+!porn2
