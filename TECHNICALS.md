@@ -34,9 +34,9 @@ DLTX: `configs/items/settings/mod_parts_[name]`
 
 Module to define what components any item can be disassembled into. Separated into `settings` for shared values, `weapon_spare_parts` for the default item to receive on weapon disassembly, `con_parts_list` for parts with a simulated condition, and `nor_parts_list` for parts without a simulated condition. Contains key/value pairs for the item to be disassembled and its components, e.g. `book = prt_i_paper`.
 
-### `configs/items/items/items_repair`
+### `items_repair`
 
-DLTX: `mod_base_[name]`
+DLTX: `configs/items/items/mod_base_[name]`
 
 Module for items used for repairs, including the helper items that can optionally be used for a repair. Adding new miscellaneous items that may be used to help repair items or if existing items are repurposed to no longer be suitable to help in repairs, sections in this module need to be modified. The key `repair_parts_sections` defines the items that can be used to augment a repair. Note that even with DLTX, two mods cannot modify the item list in a single key.
 
