@@ -42,7 +42,7 @@ Module for items used for repairs, including the helper items that can optionall
 
 ### `craft`
 
-DLTX: `configs/mod_craft_[name]`
+DLTX: `configs/items/settings/mod_craft_[name]`
 
 Module for crafting recipes; defines both if the added or modified item can be crafted or if is used as a component to craft something else. Contains multiple numerically named sections from `[1]` to `[8]` corresponding to Anomaly recipe books (often all unlocked by default in a new game).
 
