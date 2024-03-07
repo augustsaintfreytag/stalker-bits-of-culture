@@ -40,6 +40,12 @@ DLTX: `configs/items/items/mod_base_[name]`
 
 Module for items used for repairs, including the helper items that can optionally be used for a repair. Adding new miscellaneous items that may be used to help repair items or if existing items are repurposed to no longer be suitable to help in repairs, sections in this module need to be modified. The key `repair_parts_sections` defines the items that can be used to augment a repair. Note that even with DLTX, two mods cannot modify the item list in a single key.
 
+### `craft`
+
+DLTX: `configs/mod_craft_[name]`
+
+Module for crafting recipes; defines both if the added or modified item can be crafted or if is used as a component to craft something else. Contains multiple numerically named sections from `[1]` to `[8]` corresponding to Anomaly recipe books (often all unlocked by default in a new game).
+
 ### `trade_*`
 
 DLTX: `configs/items/trade/mod_trade_[character_name]_[name]`
