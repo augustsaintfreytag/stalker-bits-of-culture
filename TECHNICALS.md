@@ -55,6 +55,12 @@ DLTX: `configs/items/trade/mod_trade_[character_name]_[name].ltx`
 
 Multiple modules that define stock, buying, and selling profiles for trader NPCs. The module `trade_presets` defines what items traders buy from the player indexed by category (e.g. `pistols`, `rifles`, `outfits`, `drinks`, `food`, `trash`, etc). The module also defines generial trader classes (e.g. `supplier`, `merchant`, `trasher`, `barman`, `medic`, `scientist`) that inherit item categories. However, the module is only included by specific trader profiles and thus cannot be modified with DLTX -- the individual trader profiles must be modified instead.
 
+### Dynamic Item Spawns (`dynamic_item_spawn`)
+
+DLTX: `configs/items/settings/mod_dynamic_item_spawn_[name].ltx`
+
+Module to allow items to be spawned dynamically in the world as loot to be picked up from predefined positions. Defines number of uses for limited-use items (section `possible_uses`) and categories for the kind of loot found. Items may appear in more than one section at a time (e.g. `kit` and `medical`).
+
 ### Encyclopedia (`encyclopedia`)
 
 DLTX: `configs/plugins/mod_encyclopedia_[name].ltx`
