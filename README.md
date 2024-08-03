@@ -4,11 +4,6 @@
 
 An item replacer mod to introduce some shared items of culture for STALKER Anomaly (Open X-Ray). Repurposes existing disabled or unused items as a tight assortment of books and magazines that fit into the greater environs of the Zone. The mod is built using DLTX to be compatible with other mods and popular packs.
 
-> [!WARNING]
-> This mod is in active development and not yet completed.
-> You can install this mod in its current state at your own risk.
-> This warning will be removed once the mod is considered playable.
-
 ## Items
 
 The following items are introduced by this mod, inheriting the item class `tch_junk`. Note that item identifiers are recycled from existing Anomaly item records which in turn inherited a number of records from the Misery mod.
