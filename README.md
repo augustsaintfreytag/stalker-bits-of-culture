@@ -4,11 +4,11 @@
 
 An item replacer mod to introduce some shared items of culture for STALKER Anomaly (Open X-Ray). Repurposes existing disabled or unused items as a tight assortment of books and magazines that fit into the greater environs of the Zone. The mod is built using DLTX to be compatible with other mods and popular packs.
 
-![Cover Showcase 04](https://github.com/user-attachments/assets/b498b239-8b90-4a23-aa38-f2e0ce4baf8d)
-
 ## Items
 
 The following items are introduced by this mod, inheriting the item class `tch_junk`. Note that item identifiers are recycled from existing Anomaly item records which in turn inherited a number of records from the Misery mod.
+
+![Cover Showcase 07](https://github.com/user-attachments/assets/64abe0c6-a888-4c3e-b04f-b3a7cf2c065c)
 
 ### Crime and Punishment (Fyodor Dostoevsky)
 
