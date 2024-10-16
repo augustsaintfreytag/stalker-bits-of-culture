@@ -92,17 +92,6 @@
 		%c[d_blue] • %c[ui_gray_2] everyday item</text>
 	</string>
 
-	<!-- Miscellaneous -->
-
-	<string id="st_personal_photo">
-		<text>Photo</text>
-	</string>
-	<string id="st_personal_photo_descr">
-		<text>This photo may have once been the treasured memory of another person. It appears mundane at first glance but great attention has been given to the framing, lighting, and overall atmosphere, giving off a thoughtful, observational tenderness.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] personal belongings</text>
-	</string>
-
 	<!-- Quest Text Fixes -->
 
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_about">
