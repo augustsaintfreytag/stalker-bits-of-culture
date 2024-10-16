@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<string_table>
+	<string id="st_book_das_kapital">
+		<text>Das Kapital</text>
+	</string>
+	<string id="st_book_das_kapital_descr">
+		<text>Une ancienne copie du texte thйorique fondamental en philosophie matйrialiste, critique de l'йconomie politique et de la politique, йcrit par Karl Marx et publiй pour la premiиre fois en 1885. Il explore et analyse les schйmas йconomiques derriиre le mode de production capitaliste en comparaison avec les йconomistes classiques prйcйdents.\n
+ \n
+%c[ui_gray_3]PROPRIЙTЙS:\n
+%c[d_blue] • %c[ui_gray_2] objet du quotidien\n
+%c[d_blue] • %c[ui_gray_2] objet culturel</text>
+	</string>
+
+	<string id="st_book_crime_and_punishment">
+		<text>Crime et Chвtiment</text>
+	</string>
+	<string id="st_book_crime_and_punishment_descr">
+		<text>Une copie de "Crime et Chвtiment" de Fiodor Dostoпevski, un roman d'exploration psychologique et d'existentialisme, publiй pour la premiиre fois en 1866. Il suit la vie de Raskolnikov, un йtudiant appauvri vivant а Saint-Pйtersbourg, qui йlabore un plan pour tuer une prкteuse sur gages locale pour son argent. Une histoire sur la lutte avec la moralitй des actions personnelles et la condition humaine. Le livre est considйrй comme l'une des plus grandes њuvres de la littйrature mondiale, souvent retrouvй dans les sacs а dos des nouveaux venus dans la Zone. Cette йdition est une traduction en anglais.\n
+ \n
+%c[ui_gray_3]PROPRIЙTЙS:\n
+%c[d_blue] • %c[ui_gray_2] objet du quotidien\n
+%c[d_blue] • %c[ui_gray_2] objet culturel</text>
+	</string>
+
+	<string id="st_book_voroshilovgrad">
+		<text>Voroshilovgrad</text>
+	</string>
+	<string id="st_book_voroshilovgrad_descr">
+		<text>Une copie de "Voroshilovgrad" du romancier ukrainien Serhiy Zhadan en bon йtat, publiйe en 2010. Le livre raconte le voyage d'un jeune homme confrontй а la disparition soudaine de son frиre. Il propose une profonde exploration de l'identitй ukrainienne post-soviйtique, une histoire sur l'humanitй intime dans des conditions de brutalitй. L'њuvre de l'auteur est largement apprйciйe pour sa rйflexion sur la sociйtй ukrainienne contemporaine, racontйe dans un style brut et sans sentimentalisme. Zhadan a commencй sa carriиre d'йcrivain en tant que poиte, et les racines de sa prose sont encore visibles dans ses њuvres plus rйcentes.\n
+ \n
+%c[ui_gray_3]PROPRIЙTЙS:\n
+%c[d_blue] • %c[ui_gray_2] objet du quotidien\n
+%c[d_blue] • %c[ui_gray_2] objet culturel</text>
+	</string>
+
+	<string id="st_book_perverzion">
+		<text>Perverzion</text>
+	</string>
+	<string id="st_book_perverzion_descr">
+		<text>Une copie fortement usйe de "Perverzion" de Yuri Andrukhovych, une collection d'essais et de rйcits qui explorent les expйriences personnelles de l'auteur et l'histoire de l'Ukraine, publiйe en 1996. Le livre traite de la vie de l'auteur et de celle de son pays, un voyage а travers les absurditйs du monde post-soviйtique. Andrukhovych est un auteur apprйciй de la littйrature ukrainienne contemporaine. Cette йdition est une traduction en anglais.\n
+ \n
+%c[ui_gray_3]PROPRIЙTЙS:\n
+%c[d_blue] • %c[ui_gray_2] objet du quotidien\n
+%c[d_blue] • %c[ui_gray_2] objet culturel</text>
+	</string>
+
+	<string id="st_book_the_museum_of_abandoned_secrets">
+		<text>The Museum of Abandoned Secrets</text>
+	</string>
+	<string id="st_book_the_museum_of_abandoned_secrets_descr">
+		<text>Une copie de "Le Musйe des secrets abandonnйs" d'Oksana Zabuzhko, un roman de 800 pages sur plusieurs gйnйrations concernant l'Ukraine historique et la vie de ses habitants, premier best-seller de longue durйe du pays, publiй pour la premiиre fois en 2009. Le livre est une histoire d'amour et de trahison, un rйcit de l'Union soviйtique et du monde aprиs sa chute. Zabuzhko est reconnue comme une figure majeure de la littйrature ukrainienne contemporaine.\n
+ \n
+%c[ui_gray_3]PROPRIЙTЙS:\n
+%c[d_blue] • %c[ui_gray_2] objet du quotidien\n
+%c[d_blue] • %c[ui_gray_2] objet culturel</text>
+	</string>
+
+	<string id="st_book_on_killing">
+		<text>On Killing</text>
+	</string>
+	<string id="st_book_on_killing_descr">
+		<text>Une copie transmise de "On Killing: The Psychological Cost of Learning to Kill in War and Society" de Dave Grossman, un ouvrage de non-fiction sur les effets psychologiques du meurtre en combat, publiй pour la premiиre fois en 1995. Le livre est basй sur l'expйrience de l'auteur en tant qu'officier de l'armйe amйricaine et psychologue. Il explore les mйthodes utilisйes pour surmonter la rйticence а tuer et les consйquences de cet acte. C'est une йtude des techniques et du coыt humain de la guerre. Parfois recommandй aux nouveaux arrivants ayant peu d'expйrience en combat.\n
+ \n
+%c[ui_gray_3]PROPRIЙTЙS:\n
+%c[d_blue] • %c[ui_gray_2] objet du quotidien\n
+%c[d_blue] • %c[ui_gray_2] objet culturel</text>
+	</string>
+
+	<string id="st_book_roadside_picnic">
+		<text>Stalker: Pique-nique au bord du chemin</text>
+	</string>
+	<string id="st_book_roadside_picnic_descr">
+		<text>Une copie de "Stalker: Pique-nique au bord du chemin" d'Arkady et Boris Strugatsky en russe, un roman de science-fiction sur les consйquences d'un atterrissage extraterrestre, publiй pour la premiиre fois en 1972. Le livre raconte l'histoire brutale de l'une des six zones de visitation prиs de la ville de Harmont, oщ les extraterrestres ont laissй derriиre eux des artefacts et des phйnomиnes йtranges. Le roman est considйrй comme la base crйative de divers mйdias, y compris des films et des jeux.\n
+ \n
+%c[ui_gray_3]PROPRIЙTЙS:\n
+%c[d_blue] • %c[ui_gray_2] objet du quotidien\n
+%c[d_blue] • %c[ui_gray_2] objet culturel</text>
+	</string>
+
+	<string id="st_magazine_krytyka">
+		<text>Krytyka Magazine</text>
+	</string>
+	<string id="st_magazine_krytyka_descr">
+		<text>Une йdition du magazine ukrainien mensuel Krytyka, une publication trиs respectйe sur les affaires courantes, la culture et la littйrature, fondйe en 1997. Bien que peu d'informations venant du monde extйrieur pйnиtrent dans la Zone, les livres et l'art importйs restent trиs populaires.\n
+ \n
+%c[ui_gray_3]PROPRIЙTЙS:\n
+%c[d_blue] • %c[ui_gray_2] objet du quotidien\n
+		</text>
+	</string>
+
+	<string id="st_magazine_ukrainian_week">
+		<text>Ukrainian Week</text>
+	</string>
+	<string id="st_magazine_ukrainian_week_descr">
+		<text>Une impression de Ukrainian Week, un magazine hebdomadaire illustrй avec des articles sur la politique, l'йconomie et l'art, populaire parmi les lecteurs socialement engagйs. Dans cette йdition, on trouve une gamme d'analyses, d'opinions, d'interviews, d'articles de fond, y compris des voyages en Ukraine et а l'йtranger, ainsi que des critiques d'art et un calendrier d'йvйnements. Tous les йvйnements rйpertoriйs sont dans le passй.\n
+ \n
+%c[ui_gray_3]PROPRIЙTЙS:\n
+%c[d_blue] • %c[ui_gray_2] objet du quotidien\n
+		</text>
+	</string>
+	
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_about">
+		<text>Eh bien, il y a quelque chose d'important qui nйcessite ton attention. Une mission spйciale d'infiltration а Rostok est prйvue, et je dois garder les dйtails secrets, dйsolй. Nous avons besoin de matйriel pour peaufiner le dйguisement de nos opйrateurs spйciaux afin qu'ils puissent se fondre parfaitement dans le dйcor. Nous avons besoin de munitions 5.45x39 HP, environ 10 boоtes complиtes, pour qu'ils puissent se dйfendre contre les mutants sur la route de Rostok sans attirer l'attention des gardes aux contrфles. Si les choses tournent mal, nos hommes auront aussi besoin de fournitures mйdicales de qualitй militaire, 5 trousses de premiers secours complиtes devraient suffire. Ne t'inquiиte pas, ta rйmunйration sera а la hauteur. Si tu fais un effort supplйmentaire en te procurant de la cocaпne et du matйriel de lecture, tu recevras mкme un bonus, ce qui aidera nos opйrateurs а soudoyer certains membres du Devoir pour accomplir leur mission. Alors, tu es partant?</text>
+	</string>
+</string_table>
